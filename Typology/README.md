@@ -1,2 +1,0 @@
-## Catholicza / Typology
-* [...]
