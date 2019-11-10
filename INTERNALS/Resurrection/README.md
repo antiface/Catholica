@@ -1,3 +1,3 @@
 ## Catholica / INTERNALS / Resurrection
-* Tertullian concerning the resurrection of the flesh, etc.;
+* [Tertullian](https://archive.org/details/tertullianconcer00tertuoft/page/n5) concerning the resurrection of the flesh, etc.;
 * [...]
