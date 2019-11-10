@@ -4,4 +4,4 @@
 * Harrowing of Hell;
 * Resurrection;
 * Ascension;
-* [...];
+* [...]
