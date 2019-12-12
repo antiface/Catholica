@@ -9,5 +9,6 @@
 * Dormition;
 * Titles (Queen);
 * Apparition;
+* Co-Redemptrix;
 * Mediatrix;
 * [...]
