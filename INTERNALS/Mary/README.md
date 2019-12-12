@@ -3,7 +3,7 @@
 * Mariology;
 * Veneration;
 * Immaculate Conception;
-* Mater Dei
+* Mater Dei;
 * Perpetual virginity;
 * Assumption;
 * Dormition;
